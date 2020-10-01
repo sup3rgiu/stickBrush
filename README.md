@@ -1,6 +1,6 @@
 # convForm
 
-A plugin that transforms a form into a interative chat.
+A plugin that transforms a form into a interative chat!
 
 #### [Demo](https://eduardotkoller.github.io/convForm)
 
