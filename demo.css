@@ -8,7 +8,7 @@ html, body {
 section#demo {
 	background: #fbfbfb;
     position: relative;
-    padding: 0;
+    padding: 2;
     min-height: 100vh;
     transition: height 9999s;
 }
