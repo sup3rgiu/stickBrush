@@ -148,4 +148,4 @@ If you like the plugin, consider buying me a cup of coffe :)
 
 #### Stuff used to make this:
 
-* [Jack Moore's autosize plugin](https://github.com/jackmoore/autosize), used to autoresize the user input
+* [Jack Moore's autosize plugin](https://github.com/jackmoore/autosize), used to autoresize the user input!
