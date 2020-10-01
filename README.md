@@ -105,7 +105,7 @@ You can use custom functions to be called when a user clicks on an answer from a
 </select>
 <script>
 	function google() {
-		window.open("https://google.com");
+		window.open("https://google.com/");
 	}
 	function bing() {
 		window.open("https://bing.com");
